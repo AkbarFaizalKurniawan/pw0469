@@ -1,0 +1,30 @@
+.header{
+	margin: 0 auto;
+	width: 1000px;
+	height: 90px;
+	background-color: #00faff;
+}
+.header h1 {
+	margin: 0 auto;
+	width: 100px;
+	text-align: center;
+	font-family:monospace;
+	height: 100px;
+}
+.header small{
+	margin: 0px;
+	width: 300px;
+	text-align:center;
+	font-family: monospace;
+}
+.menu{
+	float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #333;
+    color: black;
+}
+}
